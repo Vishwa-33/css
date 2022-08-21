@@ -1,0 +1,26 @@
+.div1{
+background-image:url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+background-cover:cover;
+height:100vh;
+}
+.div2{
+background-color:grey;
+padding:10px;
+color:white;
+}
+.div3{
+background-color:#47a3f3;
+padding:10px;
+margin-bottom:10px;
+border-radius:5px;
+margin:10px;color:white;
+}
+
+.div3{
+text-align:center;
+
+}
+
+.tr{
+text-align:right;
+}

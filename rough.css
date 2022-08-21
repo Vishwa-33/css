@@ -1,0 +1,142 @@
+
+.a{
+    border: solid;height: 1500px;width: 650;
+    background-color: lightblue;
+
+}
+.b{
+    border: solid;height: 500;width: 500;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJjlKfx7xCHzsHveiPNmWWeRm9ZyHauL3WmfIftfwrf2AmPvCMfZgOSqfuQwUsiCN3Ng&usqp=CAU);
+   background-size: cover;
+    background-repeat: no-repeat;height: 250px;width: 500px;
+    margin: 65px;
+    }
+    .c{
+        text-decoration: underline;
+        color: black;
+        
+    }
+    ul li{
+        color: white;
+        display: inline-block;
+        float: right;
+        font-size: 12px;
+        padding:5px;      
+    }
+    h2{
+        color: white;
+    }
+    h1{
+        color: white;
+        text-align: center;
+    }
+    p{
+        color: white;
+        font-size: 15px;
+        text-align: center;
+    }
+button{
+    border-radius: 20px;
+}
+.d{
+    border: solid;height: 200;width: 500;
+    
+    background-color: white;
+    margin-left: -4px;
+    margin-top: 44px;
+     
+}
+.e{
+    color: black;
+}
+.f{
+    color: darkblue;
+font-size: 25px;
+}
+
+.g{
+    border: solid;height: 200px;width: 500px;
+    margin-left: -3px;
+    
+    display: flex;
+    
+}
+
+.h{
+    border: solid;height: 200px;width: 170px;
+    background-color: dodgerblue;
+    
+    
+
+}
+.i{
+    border: solid;height: 200px;width: 170px;
+    background-color: black;
+    
+
+}
+
+.j{
+    border: solid;height: 200px;width: 170px;
+    background-color: dodgerblue;
+    display: inline-block;
+    
+
+}
+h3{
+    color: white;
+    text-align: center;
+}
+.k{
+    border: solid;color: black; height: 300px;width: 500px;
+    margin-top: 400px;
+    margin-left: 65px;
+    
+    text-align: center;
+    font-size: 20px;
+    background-color: white;
+    
+}
+h4{
+color: blue;
+}
+hr{
+    border-color: blue;
+    width: 32px;
+    margin-top: -16px;
+}
+td{
+    color: blue;
+    font-size:12px;
+    padding:10px;
+}
+.vii{
+
+border: solid;height: 200px;width: 500px;
+margin-left: 65px;
+background-color: dodgerblue;
+
+}
+.C1{
+    color:white;
+    font-size: 35px;
+    padding: 22px;
+}
+.c2{
+    color:white;
+    font-size: 10px;
+}
+.as{
+    border: solid;height: 250px;width: 500px;
+margin-left: 65px;
+
+}
+.rr{
+    color: blue;
+    font-size: 25px;
+
+}
+.rooo{
+    color: black;
+    font-size:10px;
+}
