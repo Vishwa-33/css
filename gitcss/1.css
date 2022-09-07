@@ -1,0 +1,65 @@
+.a{
+    border: solid 1px;
+    height: 200%;width: 100%;
+
+}
+.b{
+
+    height: 35px;width: 100%;
+    background-color: cyan;
+}
+.c{
+height: 70px;width: 100%;
+background-color: white;
+
+}
+.e{
+height: 300px;width: 100%;
+background-image: url("https://i.stack.imgur.com/SvWWN.png");
+background-size: cover;
+text-align: center;
+}
+
+p{
+    color: white;
+    
+
+}
+h1{
+    color: white;
+    
+}
+
+.f{
+    border: solid;
+    height: 300px;width: 32.60%;
+    
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.g{
+    border: solid;
+    height: 300px;width: 32.60%;
+    
+    display: inline-block;
+    text-align: center;
+}
+
+.h{
+    border: solid;
+    height: 300px;width: 32.60%;
+    
+    display: inline-block;
+    text-align: center;
+
+}
+p{
+    color: black;
+}
+
+    
+    
+    
+

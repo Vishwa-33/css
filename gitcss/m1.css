@@ -1,0 +1,41 @@
+ul{
+    list-style-type: none;
+    background-color: blue;
+
+}
+
+ul li{
+    display: inline-block;
+    padding: 20px;
+    color: white;
+
+}
+.menu{
+    background-color: yellow;
+    margin-bottom: -500px;
+
+}
+.menu1{
+    background-color: green;
+
+
+
+}
+.f{
+    background-color: violet ;
+    margin-bottom: 800px;
+}
+ 
+    
+@media screen and (min-width:480px){
+    body{
+        background: cyan;
+    }
+}
+img{
+
+    height: 200px; width: 350px;
+    margin-top: 200px;
+}
+
+                                                                                                                                                                  

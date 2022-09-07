@@ -1,0 +1,57 @@
+.a{
+    background-image: url("https://static.autox.com/uploads/2019/07/Jaguar-XF-front-three-quarter-gal.jpg");
+    height: 700px;width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+
+    
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+}
+
+p{
+    text-align: center;
+    color: greenyellow;
+}
+.b1{
+    
+    margin-left: 200px;
+
+}
+
+
+
+@media only screen and (max-width:992px){
+.a{
+    background-image: url("https://wallpapers.com/images/hd/mysterious-dark-black-jaguar-car-ml2zd611lu91fu6j-ml2zd611lu91fu6j.jpg");
+    background-repeat: no-repeat;
+    height: 90%;width: 100%;
+}
+    
+}
+
+
+@media only screen and (max-width:480px){
+    .a{
+        background-image: url("https://images.unsplash.com/photo-1589134723101-5abd32593adf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8amFndWFyJTIwY2FyfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+        background-repeat: no-repeat;
+        height: 90%;width: 100%;
+    }
+        
+    }
+    
+
+
+
+
+
+
+    
+    
+
